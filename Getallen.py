@@ -1,4 +1,5 @@
-getallen = [5, 7, 6, 9, 8]
-getallen.sort(reverse=True)
+cijfers = int(input("vul 5 cijfers in"))
 
-print(getallen)
+cijfers.sort(reverse=True)
+
+print(cijfers)
