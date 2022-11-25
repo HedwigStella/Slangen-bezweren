@@ -12,10 +12,10 @@ def delen(x, y):
 
 
 print("Maak uw keuze")
-print("1.plus")
-print("2.min")
-print("3.vermenigvuldigen")
-print("4.delen")
+print("+")
+print("-")
+print("*")
+print("/")
 
 while True:
     keuze = input("Vul uw keuze in(1/2/3/4): ")
